@@ -1,6 +1,5 @@
 # WiseAssist
-## Offer a platform that connects tech-savvy volunteers with seniors who need help with using
-digital devices and applications.
+## Offer a platform that connects tech-savvy volunteers with seniors who need help with using digital devices and applications.
 
 ## Link of the Wireframe : 
 [https://www.figma.com/file/IIx0YXm6LoKsrNL4nid1mb/WiseAssist-project%2FWireframe?type=design&node-id=0-1&mode=design&t=q0nChCXQbq2miSbQ-0]
